@@ -14,19 +14,19 @@ Thanks to Tomatobird8 and KarmaRain for beta testing this project and giving me 
 ## Special Thanks
 Many people were essential in bringing this project to its completion. I'll list as many as I can remember here. Sorry if you helped me at some point and I forgot! These names are in no particular order.
 
-RandomityGuy
-Threefolder
-The Lethal Company Modding Discord
-IAmBatby
-ReindogFan1372 (undyingduck)
-Sniper1.1
-The__Matty (mattymatty)
-Hamunii
-s1ckboy
-Xu Xiaolan
-Noosh (nooshstuff)
-Tomatobird8
-
+RandomityGuy<br/>
+Threefolder<br/>
+The Lethal Company Modding Discord<br/>
+IAmBatby<br/>
+ReindogFan1372 (undyingduck)<br/>
+Sniper1.1<br/>
+The__Matty (mattymatty)<br/>
+Hamunii<br/>
+s1ckboy<br/>
+Xu Xiaolan<br/>
+Noosh (nooshstuff)<br/>
+Tomatobird8<br/>
+<br/>
 Extra special thanks to FlavoredSaucer for helping me with Blender issues more times than I can count. He is the reason any of the scrap works at all.
 
 ## Notes
