@@ -1,0 +1,9 @@
+{
+  "name": "marblecompany",
+  "version_number": "1.0",
+  "website_url": "",
+  "description": "Adds custom moons and scrap from the Marble Blast series of games.",
+  "dependencies": [
+"IAmBatby-LethalLevelLoader-1.3.10"
+  ]
+}
