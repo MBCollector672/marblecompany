@@ -1,7 +1,9 @@
 # 1.0.2
 + added Material Variants to nestegg
 + fixed nestegg sometimes spawning below the floor/inside objects
++ fixed nestegg sometimes not being scannable upon spawn
 + buffed all PQ items by 15 credits, all other non-gem and non-rare items by 10 credits
++ added all modifications to PCC listed in 1.0.1 (somehow forgot to upload the edited lethalbundle, don't ask me how)
 
 # 1.0.1
 + fixed some line breaks in the readme
