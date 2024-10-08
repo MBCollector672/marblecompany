@@ -30,7 +30,7 @@ Tomatobird8<br/>
 Extra special thanks to FlavoredSaucer for helping me with Blender issues more times than I can count. He is the reason any of the scrap works at all.
 
 ## Notes
-I plan on adding more to this mod. The next major update will likely have network synced moving platforms and video reels for each moon. In the future (Version 2.0), however, I hope to add a Marble Blast Level Editor-themed interior and potentially a few more moons!
+I plan on adding more to this mod. The next major update will likely have network synced moving platforms and potentially a new moon. In the future (Version 2.0), however, I hope to add a Marble Blast Level Editor-themed interior!
 
 ## Contact
 If you find any issues with this mod/have suggestions or ideas for improvements, message me at @MBCollector672 on Discord, or create an issue at https://github.com/MBCollector672/marblecompany.

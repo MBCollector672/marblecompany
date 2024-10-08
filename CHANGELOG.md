@@ -1,3 +1,15 @@
+# 1.1.0
++ added a new moon, Promontory! bring the cruiser!
++ added two new scrap items, egg-mbg and blast!
++ added pickles and egg-mbg to Grand Finale
++ added blast and easteregg to Gym
++ added egg-mbg and blast to Marbleland
++ slightly changed Horizon and Gym's spawn curves because enemies were spawning too early
++ added level preview videos for every moon
++ removed buggy Mesh Variants from a secret scrap item
++ significantly reduced overall filesize from ~150MB to ~60MB
++ added a secret... try looking around Grand Finale
+
 # 1.0.2
 + added Material Variants to nestegg
 + fixed nestegg sometimes spawning below the floor/inside objects
