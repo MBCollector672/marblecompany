@@ -1,3 +1,7 @@
+# 1.1.1
++ fixed rendering layer masks on the new moon
++ attempted fix for gyro and gyro-mbp not scanning until picked up once (hopefully it's actually fixed this time)
+
 # 1.1.0
 + added a new moon, Promontory! bring the cruiser!
 + added two new scrap items, egg-mbg and blast!
