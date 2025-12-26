@@ -1,9 +1,9 @@
 # Marble Company
-This mod adds 5 custom moons and 50+ custom scrap items from the Marble Blast series of games/mods.
+This mod adds 7 custom moons and 50+ custom scrap items from the Marble Blast series of games/mods.
 
 ## Credits
 GarageGames and The Platinum Team for the creation of Marble Blast Gold, Marble Blast Platinum, Marble Blast Ultra, and PlatinumQuest, all of which have assets used in this mod.<br/>
-Alex Swanson for the creation of Grand Finale and Horizon.<br/>
+Alex Swanson for the creation of Grand Finale, Promontory, Pinball Wizard, and Horizon.<br/>
 Ian for the creation of Gym.<br/>
 Threefolder for the creation of Platinum Construction Co.<br/>
 Xelna for the creation of Arrival to Marbleland.<br/>

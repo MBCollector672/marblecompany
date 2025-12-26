@@ -1,3 +1,13 @@
+# 1.1.5
++ updated project's unity version to 2022.3.62f2
++ fixed transparency of a few things that broke in v73
++ heavily adjusted trap curves for every moon as traps were spawning WAY too often
++ adjusted spawn probability range for all moons because they were too ridiculous
++ increased Promontory's indoor power
++ finally fixed dropship song
++ updated readme (yippee)
++ removed cringe
+
 # 1.1.1
 + fixed rendering layer masks on the new moon
 + attempted fix for gyro and gyro-mbp not scanning until picked up once (hopefully it's actually fixed this time)
