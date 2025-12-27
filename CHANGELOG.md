@@ -1,3 +1,6 @@
+# 1.1.5.1
++ temporary fix for an issue where quicksand can make you sink on the wrong floor type. proper fix will come in the next minor update
+
 # 1.1.5
 + updated project's unity version to 2022.3.62f2
 + fixed transparency of a few things that broke in v73
