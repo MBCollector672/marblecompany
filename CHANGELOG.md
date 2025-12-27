@@ -1,4 +1,4 @@
-# 1.1.5.1
+# 1.1.51
 + temporary fix for an issue where quicksand can make you sink on the wrong floor type. proper fix will come in the next minor update
 
 # 1.1.5
